@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleRental.Api", "MotorcycleRental.Api\MotorcycleRental.Api.csproj", "{63536ACC-AF3A-4EE5-8B82-30312A5D9C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleRental.Application", "MotorcycleRental.Application\MotorcycleRental.Application.csproj", "{8271529D-2762-472C-9FB9-BC431DD52B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleRental.Domain", "MotorcycleRental.Domain\MotorcycleRental.Domain.csproj", "{EC672542-BBDC-49C5-9B6D-4B99587095E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleRental.Contracts", "MotorcycleRental.Contracts\MotorcycleRental.Contracts.csproj", "{BFB3E52B-9D80-412C-B9A0-969B08D77CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleRental.Infrastructure", "MotorcycleRental.Infrastructure\MotorcycleRental.Infrastructure.csproj", "{7536951D-F7B0-46D4-919D-6349C1E547EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63536ACC-AF3A-4EE5-8B82-30312A5D9C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63536ACC-AF3A-4EE5-8B82-30312A5D9C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63536ACC-AF3A-4EE5-8B82-30312A5D9C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63536ACC-AF3A-4EE5-8B82-30312A5D9C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8271529D-2762-472C-9FB9-BC431DD52B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8271529D-2762-472C-9FB9-BC431DD52B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8271529D-2762-472C-9FB9-BC431DD52B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8271529D-2762-472C-9FB9-BC431DD52B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC672542-BBDC-49C5-9B6D-4B99587095E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC672542-BBDC-49C5-9B6D-4B99587095E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC672542-BBDC-49C5-9B6D-4B99587095E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC672542-BBDC-49C5-9B6D-4B99587095E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB3E52B-9D80-412C-B9A0-969B08D77CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB3E52B-9D80-412C-B9A0-969B08D77CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB3E52B-9D80-412C-B9A0-969B08D77CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB3E52B-9D80-412C-B9A0-969B08D77CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7536951D-F7B0-46D4-919D-6349C1E547EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7536951D-F7B0-46D4-919D-6349C1E547EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7536951D-F7B0-46D4-919D-6349C1E547EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7536951D-F7B0-46D4-919D-6349C1E547EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF26B2D7-41BC-4B92-9A0C-13BB1B087C9E}
+	EndGlobalSection
+EndGlobal
